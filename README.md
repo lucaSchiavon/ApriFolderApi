@@ -1,0 +1,1 @@
+Piccolo tool generato con AI per memorizzare file di testo dentro un albero strutturato di cartelle in modo da poter aprire i documenti sfogliando da browser queste cartelle (utile per memorizzare i vari prompts AI)
